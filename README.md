@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yousif freij , am a data scientist and Ai 
+- 👋 Hi, I’m yousif freij my specialities : Data Analysis | IT & Data Governance | Python & Power BI
 
 
 <!---
